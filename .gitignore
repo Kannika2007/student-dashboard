@@ -1,0 +1,40 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+node_modules/
+dist/
+backend/ml/*.joblib
+.DS_Store
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment and cache
+.env.*
+.pytest_cache/
+
+.venv312/
+
+ml/*.joblib
+
+# Backend generated files
+backend/.venv/
+backend/__pycache__/
+backend/instance/
+backend/ml/*.joblib
+
+# Python cache
+*.pyc
+
+*.tsbuildinfo
+
+!backend/.env.example
