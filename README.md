@@ -56,7 +56,25 @@ A Machine Learning based web application to analyze student performance and pred
 
 This project is developed for educational purposes. Predictions are estimates based on synthetic training data and are not official academic results.
 
+\## Project Screenshots
 
+
+
+\### Dashboard View
+
+!\[Dashboard](screenshots/dashboard%201.png.png)
+
+
+
+\### Student Records
+
+!\[Student Records](screenshots/dashboard%202.png.png)
+
+
+
+\### Analytics View
+
+!\[Analytics](screenshots/dashboard%203.png.png)
 
 \## Developer
 
