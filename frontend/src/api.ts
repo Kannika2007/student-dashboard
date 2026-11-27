@@ -2,7 +2,7 @@
 import type { Analytics, Student, StudentInput } from "./types";
 
 const BASE =
-  import.meta.env.VITE_API_BASE ?? "http://127.0.0.1:5000/api";
+  import.meta.env.VITE_API_BASE ?? "https://student-dashboard-api-ast3.onrender.com/api";
 
 async function req<T>(
   path: string,
